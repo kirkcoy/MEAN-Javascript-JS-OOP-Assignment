@@ -1,6 +1,6 @@
 # MEAN-Javascript-JS-OOP-Assignment
 
-**Ninja Class I**
+> **Ninja Class I**
 Create a new object constructor called **Ninja** with the following attributes:
 - **name**
 - **health**
@@ -14,8 +14,7 @@ The Ninja should have the following methods:
 - **showStats()** - This should show the Ninja's name, strength, speed, and health.
 - **drinkSake()** - This should add +10 Health to the Ninja.
 
-
-**Ninja Class II**
+> **Ninja Class II**
 Complete the below challenges using Ninja Class I assignment.
 
 .**punch()**
@@ -27,8 +26,7 @@ Now add a method to your Ninja class called .kick(). Kick will subtract 15 Healt
 **Validations**
 Update .punch() and .kick() so that they only accept Instances of Ninja. Hint: You will need to find a way to check the constructor of an instance. You will often need to consult outside documentation to find solutions for particular features.
 
-
-**Ninja Class III**
+> **Ninja Class III**
 **Part I**
 Recreate the base Ninja class from scratch using **ES6 classes**. Your Ninja needs the following public attributes (do not worry about private variables for this assignment):
 - **name**
